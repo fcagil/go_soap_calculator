@@ -11,7 +11,9 @@ go run *.go
 # Files
 
 main.go is the main runner as the name implies.
+
 soap.go contains the required structs for the soap.
+
 structs.go is the additional structs defined.
 
 # Data format
